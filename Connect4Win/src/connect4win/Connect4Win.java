@@ -23,6 +23,7 @@ public class Connect4Win extends JFrame implements Runnable {
     int ysize = -1;
     Image image;
     Graphics2D g;
+	int yeahboi; 
     
     boolean player1Turn;
     final static int NUM_ROWS = 8;
